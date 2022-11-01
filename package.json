@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/webextension-polyfill": "^0.9.1",
     "@vitejs/plugin-vue": "^3.2.0",
     "autoprefixer": "^10.4.13",
     "cross-env": "^7.0.3",
@@ -21,7 +22,5 @@
     "vue-tsc": "^1.0.9",
     "webextension-polyfill": "^0.10.0"
   },
-  "dependencies": {
-    "@types/webextension-polyfill": "^0.9.1"
-  }
+  "dependencies": {}
 }
