@@ -1,5 +1,8 @@
 import browser, { Runtime } from "webextension-polyfill";
 
+
+
+
 browser.runtime.onMessage.addListener(
   (message: any, sender: Runtime.MessageSender) => {
     // To view console logs in a background page on Chrome,

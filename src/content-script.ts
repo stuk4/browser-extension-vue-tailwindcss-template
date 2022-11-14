@@ -1,3 +1,2 @@
-console.log("Hello from content-script.js");
-
-export {}
+const test ={}
+export default test

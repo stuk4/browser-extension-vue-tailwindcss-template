@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Vue 3 Typescript Starter",
     "manifest_version": 3,
-    "permissions": ["storage"],
+    "permissions": ["storage","debugger"],
     "optional_host_permissions": ["*://*/*"],
     "icons": {
       "16": "assets/icon-16.png",
